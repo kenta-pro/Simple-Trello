@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       <header>
-        <h1>Simple Trello</h1>
+        <h1>Todo List</h1>
       </header>
     </div>
   )
