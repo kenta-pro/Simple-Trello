@@ -21,7 +21,9 @@ header {
 .app {
   background: url(../src/images/load.jpg);
   background-repeat: no-repeat;
-  height: 100vh;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
 }
 
 .taskCard {
